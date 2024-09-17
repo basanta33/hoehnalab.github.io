@@ -1,7 +1,8 @@
+<!-- BK: I have removed this page, if needed in the future we can enable by removing this comment -->
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
 nav: true
 nav_order: 1
 pagination:

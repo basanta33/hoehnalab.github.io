@@ -1,13 +1,20 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [Projects]
+horizontal: true
 ---
+Our research is focused on several aspects of theoretical and computational phylogenetics.
+<br>
+<br>
+Here we list the main directions, but see the <a href="/publications"><strong>publications page</strong></a> for more details.
+<br>
+
+<!-- BK: Do not edit here, edit each project file in the `_projects` directory. -->
 
 <!-- pages/projects.md -->
 <div class="projects">

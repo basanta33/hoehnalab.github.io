@@ -1,3 +1,5 @@
+<!-- BK: I have removed this page, if needed in the future we can enable -->
+
 ---
 layout: page
 permalink: /repositories/
